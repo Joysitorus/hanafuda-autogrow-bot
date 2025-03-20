@@ -16,7 +16,7 @@
    ```
 2. Install dependencies:
    ```bash
-   pip
+   pip install -r requirements.txt
    ```
 3. Create a .env file and add your api_key and refresh_token:
    ```bash
